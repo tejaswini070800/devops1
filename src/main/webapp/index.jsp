@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hi Everyone! I Have successfully deployed war file in Apache Tomcat</h2>
 </body>
 </html>
